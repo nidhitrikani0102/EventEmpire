@@ -3,9 +3,7 @@ node_modules/
 # Build output
 client/build/
 client/dist/
-# Environment files
-.env
-*.env
+
 # Logs
 npm-debug.log*
 yarn-debug.log*
